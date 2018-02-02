@@ -5,3 +5,5 @@
 * Vanilla javascript
 
 ![weightconverter](https://user-images.githubusercontent.com/29807797/35362937-85162218-0135-11e8-99be-f1dcb3ff73a4.JPG)
+
+This is the online course taught by Traversy Media.
